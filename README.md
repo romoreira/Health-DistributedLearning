@@ -1,1 +1,1 @@
-# Health-DistributedLearning
+# Cancer classification using Distributed Learning
